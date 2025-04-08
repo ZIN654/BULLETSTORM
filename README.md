@@ -35,8 +35,7 @@ This project showcases the mobile version via a web-exported version to provide 
 
 **Web:**
 1. Open `index.html` in your browser.
-2. Enjoy the demo version of Bullet Storm!
-
+2. Enjoy the demo version of Bullet Storm! [here](https://zin654.github.io/BULLETSTORM/)
 ---
 
 ## ⚠️ Note
